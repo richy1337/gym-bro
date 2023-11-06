@@ -1,2 +1,2 @@
 # gym-bro
- a comprehensive tool for gym goers.
+ a comprehensive tool for gym goers
